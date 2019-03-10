@@ -21,7 +21,7 @@
     "preact-cli": "^2.0.0"
   },
   "dependencies": {
-    "preact": "^8.2.1",
+    "preact": "^10.0.0-alpha.1",
     "preact-compat": "^3.17.0"
   }
 }
